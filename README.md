@@ -3,8 +3,6 @@
 
 （注：:+1: 表示推荐，:+1::+1: 表示强烈推荐）
 
-[TOC]
-
 ##### 编译和反编译
 
 1. [Resource Hacker](http://www.angusj.com/resourcehacker) - 还没用过，但是以后会有用
