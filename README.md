@@ -9,7 +9,7 @@
 
 ##### 破解
 
-1. [navicat](https://github.com/DoubleLabyrinth/navicat-keygen) - navicat破解方法
+1. [Navicat](https://github.com/DoubleLabyrinth/navicat-keygen) - navicat破解方法
 
 ##### Windows 搜索
 
