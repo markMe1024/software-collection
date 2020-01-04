@@ -22,3 +22,7 @@
 ##### 格式转换
 
 1. :+1:[Pandoc](https://github.com/jgm/pandoc) - 格式转换器 用命令行 很好用
+
+##### NLP
+
+1. [HanLP](https://github.com/hankcs/HanLP) - The multilingual NLP library 我只用了汉字转拼音的功能
