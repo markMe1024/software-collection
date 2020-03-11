@@ -26,3 +26,7 @@
 ##### NLP
 
 1. [HanLP](https://github.com/hankcs/HanLP) - The multilingual NLP library 我只用了汉字转拼音的功能
+
+##### windows磁盘分析、清理
+
+1. :+1:spacesniffer 分析磁盘使用情况
