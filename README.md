@@ -34,3 +34,7 @@
 ##### 白板演示
 
 1. :+1:[Excalidraw](https://excalidraw.com/) - 一个非常简单易用的白板绘图开源工具
+
+##### 硬件信息
+
+1. :+1:[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) - 网站和工具都喜欢，可以用来查看CPU、内存、缓存信息
